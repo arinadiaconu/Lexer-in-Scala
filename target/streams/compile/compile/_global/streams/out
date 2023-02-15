@@ -1,0 +1,14 @@
+[0m[[0m[33mwarn[0m] [0m[0m/mnt/c/Users/mihai/OneDrive/Desktop/Anu 4/LFA/Proiect/mihai/solutions-scala/src/main/scala/Lexer.scala:93:9: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Nil[0m
+[0m[[0m[33mwarn[0m] [0m[0m        s match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/mnt/c/Users/mihai/OneDrive/Desktop/Anu 4/LFA/Proiect/mihai/solutions-scala/src/main/scala/Regex.scala:50:7: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: List(Left((x: Char forSome x not in ('(', ')', '*', '+', '?', '|')))), List(Left((x: Char forSome x not in ('(', ')', '*', '+', '?', '|'))), Left('(')), List(Left((x: Char forSome x not in ('(', ')', '*', '+', '?', '|'))), Left('*')), List(Left((x: Char forSome x not in ('(', ')', '*', '+', '?', '|'))), Left('|')), List(Left((x: Char forSome x not in ('(', ')', '*', '+', '?', '|'))), Left((x: Char forSome x not in ('(', '*', '|')))), List(Left((x: Char forSome x not in ('(', ')', '*', '+', '?', '|'))), Left(??)), List(Left((x: Char forSome x not in ('(', ')', '*', '+', '?', '|'))), Right(_))[0m
+[0m[[0m[33mwarn[0m] [0m[0m      str match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/mnt/c/Users/mihai/OneDrive/Desktop/Anu 4/LFA/Proiect/mihai/solutions-scala/src/main/scala/Regex.scala:70:7: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Nil[0m
+[0m[[0m[33mwarn[0m] [0m[0m      stack match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m3 deprecations (since 2.13.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
